@@ -1,1 +1,1 @@
-# it's a markdown file in this reposirory
+# It is a markdown file in this reposirory
